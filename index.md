@@ -1,9 +1,4 @@
-```sh
-echo "Hello World"
-```
-```
-Random command
-```
-```python
-print("Github")
-```
+# Task List
+- [ ] This is the first item
+- [ ] Second Item
+- [x] Checked Item
